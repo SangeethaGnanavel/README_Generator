@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     name: "install",
-    message: "Enter Installation Steps(Seperate each step using dot.)",
+    message: "Enter Installation Steps",
   },
   {
     type: "input",
